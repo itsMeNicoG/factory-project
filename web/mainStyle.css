@@ -1,0 +1,82 @@
+header{
+    width: 103%;
+    background-color: #660000;
+    margin-left: -2em;
+    margin-top:-0.5em;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    margin:auto;
+    padding:0.3em;
+}
+
+article{
+    margin-top:0;
+    width: 70%;
+    margin:auto;
+    background-color: white;
+    margin-bottom:0;
+    height: 100%;
+    display:block;
+    padding-bottom: 39%;
+    text-align:center;
+}
+
+body{
+    background-color: #f1f1f1;
+}
+h2{
+    margin-top:0;
+    padding-top:1em;
+    font-family: 'Open Sans', sans-serif;
+}
+#crear{
+    display:block;
+    margin:auto;
+    margin-top: 1em;
+    height: 2.5em;
+    width: 5em;
+    color: white;
+    background-color:#660000; 
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 3%;
+    border: 1px solid #660000;
+}
+#crear:hover{
+    background-color:#3d1616;
+    cursor: pointer;
+}
+#cb{
+    cursor:pointer;
+    width: 28%;
+}
+#cb:hover{
+    background-color: #efefef;
+}
+#mostrar{
+    margin-top:0;
+    width: 70%;
+    margin:auto;
+    background-color: black;
+    margin-bottom:0;
+    display:block;
+    text-align:center;
+    padding-bottom:-20em;
+    margin-bottom:-20em;
+}
+#miCanvas{
+    border:1px solid black;
+    padding-bottom:-20em;
+    margin-bottom:-1em;
+}
+a{
+    text-decoration:none;
+    color: white;
+}
+body{
+    height: 100%;
+}
